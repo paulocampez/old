@@ -1,0 +1,11 @@
+C:\Paulo\SongSong\SongSong.Services.API\bin\Debug\netcoreapp2.2\SongSong.Services.API.deps.json
+C:\Paulo\SongSong\SongSong.Services.API\bin\Debug\netcoreapp2.2\SongSong.Services.API.runtimeconfig.json
+C:\Paulo\SongSong\SongSong.Services.API\bin\Debug\netcoreapp2.2\SongSong.Services.API.runtimeconfig.dev.json
+C:\Paulo\SongSong\SongSong.Services.API\bin\Debug\netcoreapp2.2\SongSong.Services.API.dll
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.csprojAssemblyReference.cache
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.csproj.CoreCompileInputs.cache
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.RazorAssemblyInfo.cache
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.RazorAssemblyInfo.cs
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.AssemblyInfoInputs.cache
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.AssemblyInfo.cs
+C:\Paulo\SongSong\SongSong.Services.API\obj\Debug\netcoreapp2.2\SongSong.Services.API.RazorTargetAssemblyInfo.cache
