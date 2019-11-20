@@ -1,0 +1,6 @@
+C:\Paulo\SongSong\src\SongSong.Domain.Core\bin\Debug\netcoreapp2.2\SongSong.Domain.Core.deps.json
+C:\Paulo\SongSong\src\SongSong.Domain.Core\bin\Debug\netcoreapp2.2\SongSong.Domain.Core.dll
+C:\Paulo\SongSong\src\SongSong.Domain.Core\obj\Debug\netcoreapp2.2\SongSong.Domain.Core.csprojAssemblyReference.cache
+C:\Paulo\SongSong\src\SongSong.Domain.Core\obj\Debug\netcoreapp2.2\SongSong.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Paulo\SongSong\src\SongSong.Domain.Core\obj\Debug\netcoreapp2.2\SongSong.Domain.Core.AssemblyInfoInputs.cache
+C:\Paulo\SongSong\src\SongSong.Domain.Core\obj\Debug\netcoreapp2.2\SongSong.Domain.Core.AssemblyInfo.cs

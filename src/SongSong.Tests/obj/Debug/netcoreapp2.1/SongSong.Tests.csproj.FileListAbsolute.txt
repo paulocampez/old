@@ -1,0 +1,11 @@
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\SongSong.Tests.deps.json
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\SongSong.Tests.runtimeconfig.json
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\SongSong.Tests.runtimeconfig.dev.json
+C:\Paulo\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.1\SongSong.Tests.dll
+C:\Paulo\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.1\SongSong.Tests.csprojAssemblyReference.cache
+C:\Paulo\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.1\SongSong.Tests.csproj.CoreCompileInputs.cache
+C:\Paulo\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.1\SongSong.Tests.AssemblyInfoInputs.cache
+C:\Paulo\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.1\SongSong.Tests.AssemblyInfo.cs
